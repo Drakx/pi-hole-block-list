@@ -12,3 +12,7 @@
 0.0.0.0 consuldrifter.live
 0.0.0.0 bookletam.info
 0.0.0.0 jobsflag.co.uk
+0.0.0.0 thiswebwillbesecure.store
+0.0.0.0 thisservermustbeprime.com
+0.0.0.0 ourhotelissecured.com
+0.0.0.0 ourhostingmustbegood.com
