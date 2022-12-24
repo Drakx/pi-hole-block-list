@@ -1,0 +1,14 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: Chrome Spam List
+# Expires: 1 day
+# Help: https://github.com/Drakx/pi-hole-block-list/
+#
+# Chrome Spam List
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 33.sheild-for-phone.com
+0.0.0.0 xomoquarry.live
+0.0.0.0 foddermasher.info
+0.0.0.0 dolocamerticus.live
+0.0.0.0 consuldrifter.live
+0.0.0.0 bookletam.info
+0.0.0.0 jobsflag.co.uk
