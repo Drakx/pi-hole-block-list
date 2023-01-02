@@ -3,6 +3,8 @@
 # Expires: 1 day
 # Help: https://github.com/Drakx/pi-hole-block-list/
 #
+# https://d3ward.github.io/toolz/adblock.html
+#
 # Chrome Spam List
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 33.sheild-for-phone.com
