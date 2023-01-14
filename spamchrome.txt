@@ -31,3 +31,6 @@
 0.0.0.0 1k3j1blg.com
 0.0.0.0 thenickelpress.com
 0.0.0.0 shopping.thenickelpress.com
+0.0.0.0 dropthesepacksail.com
+0.0.0.0 dropthesepacksall.com
+0.0.0.0 webgamesgroup.com
